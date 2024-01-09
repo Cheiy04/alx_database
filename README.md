@@ -1,1 +1,1 @@
-Will soon update the readme of this repo
+Will soon update the readme of this repository
