@@ -1,1 +1,1 @@
-This folder will show the basics of sql and how to run functions in sql.
+This folder will show the basics of sql and how to run functions in SQL.
